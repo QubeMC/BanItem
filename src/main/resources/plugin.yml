@@ -1,0 +1,9 @@
+name: BanItem
+main: com.pikycz.banitem.BanItem
+version: 1.0.0
+api: [1.0.0]
+author: PikyCZ
+commands:
+ banitem:
+  description: "BanItem"
+  permission: op
